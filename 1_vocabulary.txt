@@ -1,0 +1,5 @@
+simulate: mo phong
+mimics: bat chuoc
+robust
+minimal
+flexible

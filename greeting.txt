@@ -1,0 +1,18 @@
+- Introduce about your self
+Its a plesure for me to meet you in this interview.
+My name is Quang Linh but you can call me James.
+I have more than 5 years experience with python web development as a backend developer. My framework I used the most is Django
+I also have knowledge about AI, Testing, Automation Tool.
+I also can do in Javascript, HTML, CSS and my frontend framework is Angular.
+
+
+- Tell about your last project?
+
+- What is the most challenging in the project?
+Its a difficult task about calculate cost for the parking time. The function to calculate contain many formulars and we need to
+clearify it many times.  Or even we need to rewrite the fucntion 
+
+- Agile Scrum
+
+- How to overcome the problem?
+

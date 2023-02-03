@@ -1,0 +1,13 @@
+simulate: mo phong
+mimics: bat chuoc
+robust: mạnh mẽ
+minimal: tối thiểu
+flexible: linh hoạt
+boilerplate: bản mẫu
+populated: trú ngụ
+responsible: chịu trách nhiệm
+mechanism: cơ chế
+Frequently: thường xuyên
+arbitrary: bất kì
+obviously: rõ ràng
+denote: biểu thị 

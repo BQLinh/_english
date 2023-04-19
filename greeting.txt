@@ -1,18 +1,55 @@
-- Introduce about your self
+* Introduce about your self
 Its a plesure for me to meet you in this interview.
 My name is Quang Linh but you can call me James.
-I have more than 5 years experience with python web development as a backend developer. My framework I used the most is Django
-I also have knowledge about AI, Testing, Automation Tool.
-I also can do in Javascript, HTML, CSS and my frontend framework is Angular.
+I have about 5 years experience with python web development as a backend developer. My frameworks I used the most is Django and Django Rest Framework
+I also have knowledge about AI, I can implement deeplearning model. I also have knowledge about Unit Testing, Automation Tools.
+I also can use Javascript, HTML, CSS. My frontend framework I used is Angular.
+I also can use Flask and FastAPI to create backend in python. I have some basic knowledge a AWS and curently I am learning AWS for developer.
+I also often use Docker in development process
 
 
-- Tell about your last project?
+* Tell me about your recent/ last/ favorite project? (What was your team size? What did you do? What was your role? What technologies did you use?)
+My last project is about export a report file about japanese population. We only have 2 developers, 1 tester and 1 bridge software engineer.
+We use Django Rest Framework to create apis and connect to database. For complex queries, we use raw queries. My role is create tables for the database, write apis, implement functions. 
+I need to read documentations of japanese to get distance between locations and documents about a asposecell tools to convert excel to pdf.
 
-- What is the most challenging in the project?
-Its a difficult task about calculate cost for the parking time. The function to calculate contain many formulars and we need to
-clearify it many times.  Or even we need to rewrite the fucntion 
 
-- Agile Scrum
+* What is the most challenging in the project?
+There are some problems while we developed the project. Some documentations are written in Japanese, so its hard for us to understand. We need to try to understand it by translate it to 
+english and practice to understand those apis. 
+The second problem is, apis for python is implement from java apis, so its lack apis compare with python, sometimes, we couldn't change style of excel files. To overcome this problems, we need to read alot document about Asposecell for java and change style of the template file
 
-- How to overcome the problem?
+* Tell me about a failure or a mistake, something that you screwed up maybe? What did you do to solve it? What was that and what you learned from it?
+
+
+* Weakness and Strength
+Weekness:
++ Sometimes I stuck in some problems like fix a bug that is hard to fix and its take long time and its make me stressed
++ I dont have deep knowledge about many technologies like aws, frontend.
+Strength:
++ I like to learn new things like AI. I also plan to create a game in C# and C++. And I learn new things fast.
+
+* How do you handle work-related stress?
+I usually find a way to refresh myself like spend one day on weeekend to sleep and stay on my bed in the morning. 
+The second way is do excercises I play skateboard, basketball and swim or running.
+
+* What do you expect from this position?
+If i pass this interview, it will be a grate chance for me to improve my communication skills and learn new things with python. So I just want to an enviroment that comfotable and I can learning new things from people
+
+* Did you join a project in the working process of Agile/ Scrum? What is the best benefit of working of Agile/Scrum?
+Yes, almost projects that I join before use Agile/Scrum. With Agile-Scrum we will easy to find out the problems in each phase so we can find the solution as soon as posible
+
+* what kinds of different dev tools that you used
+I only use vscode for coding
+
+* what database tool do you use? 
+There are some ways I use to connect to database. I install mysql in my computer and use mysql workbench or dbeaver to visualize data. Or I will create and docker container and view data by php-myadmin or adminer
+
+* how to connect the database with the project?
+I use Django, so to connect to database we just need to change config settings in DATABSES sections in settings.py file
+
+
+- What are the key features of Python?
+Python is strong,the most popular language, large community, python code is readable, short learning curve. We can use python to create backend or create a website quickly. Python is the most used for AI. write python code is shorter and faster than others language 
+
 
